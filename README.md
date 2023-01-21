@@ -1,4 +1,4 @@
-# Calculadora_Pitagoras
+# Calculadora Teorema de Pitagoras
 
 Desenvolvimento de uma calculadora que realiza o calculo do Teorema de Pitagoras
 
